@@ -209,6 +209,18 @@
       "categoria": "Objeciones",
       "titulo": "REBATE — Premios Ookla",
       "texto": "¡Te entiendo! 😊 Invertir un poco más le garantiza un servicio respaldado por los premios Ookla, estos premios son internacionales y somos reconocidos por ofrecer una conexión rápida y estable. ¡La diferencia se nota desde el primer día!"
+    },
+    {
+      "id": 37,
+      "categoria": "Despedida",
+      "titulo": "Despedida venta",
+      "texto": "🎉 ¡Excelente! Su solicitud ha sido registrada correctamente.\n\nLe damos la bienvenida a la familia Mi Fibra. 🚀\n\n📞 Para cualquier consulta sobre su servicio, puede comunicarse con nuestro canal de atención al cliente al 0800 74 007.\n\n📲 Asimismo, le pedimos estar atento(a) a su teléfono, ya que nuestra área técnica se comunicará con usted para coordinar la instalación.\n\n💰 Medios de pago:\n✅ Agentes autorizados BBVA y BCP.\n✅ Banca móvil BBVA y BCP.\n✅ Yape: Ingrese a \"Yapear Servicios\", busque \"MiFibra\" y luego registre su número de DNI.\n\nMuchas gracias por su confianza. Ha sido un gusto atenderle"
+    },
+    {
+      "id": 38,
+      "categoria": "General",
+      "titulo": "Nuevo speech",
+      "texto": ""
     }
   ]
 }
