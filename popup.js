@@ -681,9 +681,40 @@ function initAjustesListeners() {
 // ══════════════════════════════════════════════════════════
 // INIT
 // ══════════════════════════════════════════════════════════
+// ══════════════════════════════════════════════════════════
+// BOTÓN "FIJAR VENTANA"
+// Abre la extensión en una ventana flotante independiente que
+// no se cierra al hacer clic afuera y se puede minimizar/mover.
+// ══════════════════════════════════════════════════════════
+function esVentanaFija() {
+  try { return new URLSearchParams(location.search).get('win') === '1'; }
+  catch (e) { return false; }
+}
+
+function initPinButton() {
+  const btn = document.getElementById('pinBtn');
+  if (!btn) return;
+
+  // Si ya estamos en la ventana flotante, el botón no tiene sentido.
+  if (esVentanaFija()) { btn.style.display = 'none'; return; }
+
+  const puede = typeof chrome !== 'undefined' && chrome.windows && chrome.runtime;
+  if (!puede) { btn.style.display = 'none'; return; } // fuera de la extensión
+
+  btn.addEventListener('click', () => {
+    chrome.windows.create({
+      url: chrome.runtime.getURL('popup.html?win=1'),
+      type: 'popup',
+      width: 440,
+      height: 680
+    }, () => window.close());
+  });
+}
+
 document.addEventListener('DOMContentLoaded', () => {
   initAjustesListeners();
   if (typeof initAdminListeners === 'function') initAdminListeners();
+  initPinButton();
 
   document.getElementById('searchInput').addEventListener('input', (e) => {
     busqueda = e.target.value.toLowerCase();
