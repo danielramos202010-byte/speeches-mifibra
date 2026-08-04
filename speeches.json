@@ -1,0 +1,214 @@
+{
+  "speeches": [
+    {
+      "id": 1,
+      "categoria": "Saludo",
+      "titulo": "SALUDO",
+      "texto": "Hola 👋 soy {{AGENTE}} de MiFibra\nVi que estás buscando internet y justo tenemos promos activas hoy 🔥\n📶 Fibra 100% estable\n🚀 Instalación rápida\nTengo promociones disponibles según tu zona para darte la mejor promoción, ¿me compartes tu dirección o ubicación para instalación y DNI? "
+    },
+    {
+      "id": 2,
+      "categoria": "Sondeo",
+      "titulo": "SONDEO PORTA",
+      "texto": "Para poder brindarle la mejor oferta disponible, ¿cuenta con algún otro servicio de internet para el hogar en su domicilio? Esta información nos ayudará a revisar promociones exclusivas que podrían aplicar para usted. 😊"
+    },
+    {
+      "id": 4,
+      "categoria": "Sondeo",
+      "titulo": "SONDEO NECESIDAD/USO",
+      "texto": "Para recomendarte el plan ideal, ¿cómo usas principalmente tu internet? 🤔\n📺 Streaming | 💼 Trabajo/estudios | 🎮 Juegos | 📱 Redes sociales"
+    },
+    {
+      "id": 3,
+      "categoria": "Cobertura",
+      "titulo": "REVALIDACIÓN COBERTURA PREVIA AL CHAT",
+      "texto": "¿Nos confirma si sería para esta misma ubicación, por favor?"
+    },
+    {
+      "id": 5,
+      "categoria": "Cobertura",
+      "titulo": "CONFIRMACIÓN DE COBERTURA",
+      "texto": "Gracias por su pronta respuesta, le confirmamos que ¡Sí tenemos cobertura en la dirección indicada!  😄"
+    },
+    {
+      "id": 18,
+      "categoria": "Cobertura",
+      "titulo": "SIN COBERTURA",
+      "texto": "¡Gracias por tu paciencia! 😊 Revisamos la cobertura y, por el momento, aún no contamos con disponibilidad de fibra óptica en tu zona. 📍\n\nEstamos ampliando nuestra red para llegar a más hogares y esperamos poder atenderte muy pronto con la mejor experiencia de internet. 🚀✨ ¡Será un gusto contactarte cuando estemos disponibles en tu zona!"
+    },
+    {
+      "id": 8,
+      "categoria": "Cierre",
+      "titulo": "CIERRE CON PROGRAMACIÓN",
+      "texto": "La instalación la programamos en un plazo de 48 horas.\nPor tiempo limitado, bonificamos su instalación al 100%, no tendrá que pagar nada, ¡quedaría totalmente GRATIS!\n"
+    },
+    {
+      "id": 9,
+      "categoria": "Datos",
+      "titulo": "SOLICITUD DATOS — Persona Natural (DNI)",
+      "texto": "A continuación te detallo los datos necesarios para programar tu instalación a la brevedad posible.\n\n📍 FOTO DE LA FACHADA DE LA CASA.\n📍 FOTO DEL DNI AL DERECHO Y REVES.\n📍 CORREO:\n📍 NÚMERO( de contacto):\n📍DIRECCIÓN EXACTA (Escrita):\n📍ÚLTIMA  FACTURA EMITIDA DEL OPERADOR ACTUAL"
+    },
+    {
+      "id": 10,
+      "categoria": "Datos",
+      "titulo": "SOLICITUD DATOS — Persona Jurídica (RUC)",
+      "texto": "Perfecto solo necesito estos datos para proceder con la contratación:\n\n-RUC:\n-Razón Social\n-Nombre del Representante Legal\n-Foto de DNI del Representante legal, por ambas caras(VIGENTE)\n-correo electrónico\n-foto de la fachada de su domicilio\n-dirección exacta del domicilio\n-referencia para llegar a su domicilio\n-numero de celular para llamarle y realizar el contrato de voz\n"
+    },
+    {
+      "id": 11,
+      "categoria": "Contrato",
+      "titulo": "SOLICITUD LLAMADA",
+      "texto": "¿Estaría disponible menos de 4 minutos para la grabación?, es realmente rápido y corto.\n"
+    },
+    {
+      "id": 12,
+      "categoria": "Contrato",
+      "titulo": "TERMINO DE REGISTRO",
+      "texto": "📝 ¡Listo! , hemos culminado con el proceso de contratación"
+    },
+    {
+      "id": 13,
+      "categoria": "Postventa",
+      "titulo": "ATENCIÓN AL CLIENTE POST INSTALACIÓN",
+      "texto": "Para atención al cliente una vez instalado el servicio se puede comunicar al 0800 74 007 , le pedimos estar atento a su número de contacto para la coordinación de su instalación."
+    },
+    {
+      "id": 14,
+      "categoria": "Postventa",
+      "titulo": "MEDIOS DE PAGO — Servicio mensual",
+      "texto": "Le comento los lugares de pago. 💰\n📎Agentes autorizados o banca móvil BBVA, BCP.\n📎Yape - Ingresando a Yapear servicios, busca MIFIBRA( Todo junto) y luego su número de  DNI."
+    },
+    {
+      "id": 15,
+      "categoria": "Postventa",
+      "titulo": "MEDIOS DE PAGO — Instalación",
+      "texto": "Medios de Pago de Instalación:\n\n📍 Cuenta Corriente BBVA\nCala Servicios Integrales EIRL: 0011-0119-01000618-02\n\n📍 Código de Cuenta Interbancaria (CCI)\nCala Servicios Integrales EIRL: 011-119-000100061802-53\n\n📍 Yape\nCala Servicios Integrales EIRL: 977841857"
+    },
+    {
+      "id": 16,
+      "categoria": "Postventa",
+      "titulo": "DESPEDIDA VENTA",
+      "texto": "¡Le damos la bienvenida a la familia de MiFibra!✨"
+    },
+    {
+      "id": 17,
+      "categoria": "Despedida",
+      "titulo": "DESPEDIDA ABANDONO",
+      "texto": "¡Te esperamos! 😊\nAún estás a tiempo de aprovechar nuestras promociones en fibra óptica. 🚀\n\n📲 Escríbenos cuando gustes y con gusto retomaremos tu atención. Gracias por comunicarte con MiFibra 🌟 "
+    },
+    {
+      "id": 19,
+      "categoria": "Despedida",
+      "titulo": "DESPEDIDA - NO VENTA",
+      "texto": "¡Gracias por comunicarte con MiFibra!✨"
+    },
+    {
+      "id": 19.5,
+      "categoria": "Saturado",
+      "titulo": "ZONA SATURADA",
+      "texto": "¡Gracias por tu amable espera!  Revisamos la cobertura en la zona de instalación y te comento que por ahora, hemos alcanzado la capacidad máxima de instalaciones en el área.📍.\n\nSeguimos expandiendo nuestra red de fibra óptica para llegar a más lugares del Perú y esperamos poder atenderte muy pronto con la mejor experiencia de internet.\nGracias por comunicarte con Mifibra.🚀✨"
+    },
+    {
+      "id": 20,
+      "categoria": "Recordatorios",
+      "titulo": "Recordatorio 1",
+      "texto": "¿Sigues en línea? 😊 Así puedo ayudarte a encontrar el mejor servicio de internet de MiFibra del Perú"
+    },
+    {
+      "id": 21,
+      "categoria": "Recordatorios",
+      "titulo": "Recordatorio 2",
+      "texto": "¿Te encuentras disponible? 😄 Quiero brindarte la mejor opción de internet según lo que necesitas."
+    },
+    {
+      "id": 22,
+      "categoria": "Recordatorios",
+      "titulo": "Recordatorio 3",
+      "texto": "¿Sigues conectado? 👀 Tengo una propuesta de internet que podría interesarte bastante."
+    },
+    {
+      "id": 23,
+      "categoria": "Recordatorios",
+      "titulo": "Recordatorio 4",
+      "texto": "¿Aún estás por aquí? ✨ Así puedo ayudarte con el plan de internet ideal para ti."
+    },
+    {
+      "id": 24,
+      "categoria": "Recordatorios",
+      "titulo": "Recordatorio 5",
+      "texto": "¿Me ayudas con unos minutitos más? 😊 Quiero ofrecerte la mejor alternativa de internet."
+    },
+    {
+      "id": 25,
+      "categoria": "Recordatorios",
+      "titulo": "Recordatorio 6",
+      "texto": "¿Seguimos en contacto? 😄 Estoy revisando qué plan te conviene más."
+    },
+    {
+      "id": 26,
+      "categoria": "Recordatorios",
+      "titulo": "Recordatorio 7",
+      "texto": "¿Continúas en línea? 🚀 Tengo opciones de internet con buena velocidad y estabilidad para ti."
+    },
+    {
+      "id": 27,
+      "categoria": "Recordatorios",
+      "titulo": "Recordatorio 8",
+      "texto": "¿Te puedo seguir ayudando? 💻 Quiero recomendarte el mejor plan disponible."
+    },
+    {
+      "id": 28,
+      "categoria": "Recordatorios",
+      "titulo": "Recordatorio 9",
+      "texto": "¿Aún sigues conectado(a)? 📶 Así puedo terminar de cotizarte la mejor opción."
+    },
+    {
+      "id": 29,
+      "categoria": "Recordatorios",
+      "titulo": "Recordatorio 10",
+      "texto": "¿Seguimos? 😄 Estoy validando promociones que podrían beneficiarte bastante."
+    },
+    {
+      "id": 30,
+      "categoria": "Recordatorios",
+      "titulo": "Recordatorio 11",
+      "texto": "¿Te encuentras disponible en este momento? ✨ Quiero brindarte una atención rápida y personalizada."
+    },
+    {
+      "id": 31,
+      "categoria": "Recordatorios",
+      "titulo": "Recordatorio 12",
+      "texto": "¿Sigues por aquí? 😁 No quiero que se te pase esta promoción disponible."
+    },
+    {
+      "id": 32,
+      "categoria": "Recordatorios",
+      "titulo": "Recordatorio 13",
+      "texto": "¿Puedo continuar ayudándote? 📡 Tengo información importante sobre los beneficios del servicio."
+    },
+    {
+      "id": 33,
+      "categoria": "Recordatorios",
+      "titulo": "Recordatorio 14",
+      "texto": "¿Aún interesado(a)? 😊 Estoy aquí para ayudarte a elegir el internet ideal para tu hogar."
+    },
+    {
+      "id": 34,
+      "categoria": "Recordatorios",
+      "titulo": "Recordatorio 15",
+      "texto": "¿Seguimos con la información? 💙 Así te explico los beneficios y cobertura disponibles."
+    },
+    {
+      "id": 35,
+      "categoria": "Objeciones",
+      "titulo": "REBATE — Calidad y estabilidad",
+      "texto": "Comprendo totalmente 😊. Recuerde que no solo elige el precio, sino un servicio de calidad que realmente cumple con la velocidad indicada. ¡Tenemos el mejor internet a nivel país no solo en velocidad si no en estabilidad!"
+    },
+    {
+      "id": 36,
+      "categoria": "Objeciones",
+      "titulo": "REBATE — Premios Ookla",
+      "texto": "¡Te entiendo! 😊 Invertir un poco más le garantiza un servicio respaldado por los premios Ookla, estos premios son internacionales y somos reconocidos por ofrecer una conexión rápida y estable. ¡La diferencia se nota desde el primer día!"
+    }
+  ]
+}

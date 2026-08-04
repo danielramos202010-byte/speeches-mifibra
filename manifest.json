@@ -1,0 +1,24 @@
+{
+  "manifest_version": 3,
+  "name": "Speeches MiFibra",
+  "version": "3.0",
+  "description": "Fichas de respuesta rápida para chat, con datos de asesor y oferta comercial por zona",
+  "permissions": ["storage"],
+  "host_permissions": [
+    "https://raw.githubusercontent.com/*",
+    "https://api.github.com/*"
+  ],
+  "action": {
+    "default_popup": "popup.html",
+    "default_icon": {
+      "16": "icon16.png",
+      "48": "icon48.png",
+      "128": "icon128.png"
+    }
+  },
+  "icons": {
+    "16": "icon16.png",
+    "48": "icon48.png",
+    "128": "icon128.png"
+  }
+}

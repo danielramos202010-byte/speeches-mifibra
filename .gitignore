@@ -1,0 +1,11 @@
+# Archivos de trabajo / temporales
+preview_demo.html
+*.rar
+*.zip
+.DS_Store
+Thumbs.db
+
+# NUNCA subir tokens ni secretos
+token.txt
+*.token
+secrets.*
