@@ -4,7 +4,7 @@
       "id": 1,
       "categoria": "Saludo",
       "titulo": "SALUDO",
-      "texto": "Hola 👋 soy {{AGENTE}} de MiFibra\nVi que estás buscando internet y justo tenemos promos activas hoy 🔥\n📶 Fibra 100% estable\n🚀 Instalación rápida\nTengo promociones disponibles según tu zona, ¿en qué distrito y provincia te encuentras para recomendarte la mejor opción en 1 minuto?"
+      "texto": "¡Hola!🤝 le saluda {{AGENTE}}, asesora de Mi Fibra, por favor bríndame los siguientes datos para poder realizar la evaluación correspondiente y brindarte nuestros planes: 1. Dirección completa(indicando distrito)/ubicación 📍 2. Número de DN"
     },
     {
       "id": 2,
