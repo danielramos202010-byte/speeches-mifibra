@@ -4,7 +4,7 @@
       "id": 1,
       "categoria": "Saludo",
       "titulo": "SALUDO",
-      "texto": "¡Hola!🤝 le saluda {{AGENTE}}, asesora de Mi Fibra, por favor bríndame los siguientes datos para poder realizar la evaluación correspondiente y brindarte nuestros planes: 1. Dirección completa(indicando distrito)/ubicación 📍 2. Número de DN"
+      "texto": "Hola 👋 soy {{AGENTE}} de MiFibra\nVi que estás buscando internet y justo tenemos promos activas hoy 🔥\n📶 Fibra 100% estable\n🚀 Instalación rápida\nTengo promociones disponibles según tu zona, ¿en qué distrito y provincia te encuentras para recomendarte la mejor opción en 1 minuto?"
     },
     {
       "id": 2,
@@ -221,6 +221,12 @@
       "categoria": "General",
       "titulo": "Nuevo speech",
       "texto": ""
+    },
+    {
+      "id": 39,
+      "categoria": "saludo",
+      "titulo": "saludo 2",
+      "texto": "Hola 👋 soy {{AGENTE}} de MiFibra Vi que estás buscando internet y justo tenemos promos activas hoy 🔥 📶 Fibra 100% estable 🚀 Instalación rápida Para validar la cobertura y poder continuar con tu solicitud, por favor envíame tu dirección completa 🏠 y un número de teléfono de contacto ☎️. Así podré ayudarte de inmediato y brindarte toda la información. 🚀📶"
     }
   ]
 }
