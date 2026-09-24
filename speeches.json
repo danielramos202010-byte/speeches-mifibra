@@ -40,7 +40,7 @@
       "id": 8,
       "categoria": "Cierre",
       "titulo": "CIERRE CON PROGRAMACIÓN",
-      "texto": "¡Gracias por elegir MiFibra, {{nombre}}! 💗\nTu contratación ha sido registrada correctamente.\n\nPara tus próximos pagos, recuerda utilizar tu código de abonado {{codigo}} en nuestros canales habilitados: BCP, BBVA o Yape.\n\nSi necesitas atención sobre tu servicio, recuerda que este número es exclusivo para Ventas.\nPuedes comunicarte con nuestros canales de Atención al Cliente:\n\nWhatsApp: 923 418 300\nLlamadas: 0800 74007\nAl comunicarte, selecciona la opción “SOY CLIENTE”.\n\nTambién puedes escribirnos directamente por WhatsApp:\nhttps://wa.link/30l66e\n\nY si estás disfrutando tu experiencia MiFibra, ¡recomiéndanos!\nSi algún familiar, amigo o conocido quiere contratar, puedes compartirle este número de ventas: {{numero_ventas}}.\n\nEquipo MiFibra 💗"
+      "texto": "¡Gracias por elegir MiFibra, {{nombre}}! 💗\nTu contratación quedó registrada correctamente.\n\n💳 ¿Cómo pagar?\nTu código de abonado es tu número de DNI.\n- Yape: entra a la app, busca \"MiFibra\" en Pagar servicios e ingresa tu DNI.\n- BCP y BBVA: paga en su app, agente o agencia usando tu DNI.\n\n📞 ¿Necesitas ayuda con tu servicio?\nEste número es exclusivo para Ventas. Para Atención al Cliente, elige la opción “SOY CLIENTE” en cualquiera de estos canales:\n- WhatsApp: 923 418 300 (o entra aquí: https://wa.link/30l66e)\n- Llamadas: 0800 74007\n\n🎁 ¿Te gusta MiFibra? ¡Recomiéndanos!\nComparte este número de ventas con familiares y amigos: {{numero_ventas}}\n\nEquipo MiFibra 💗"
     },
     {
       "id": 9,
